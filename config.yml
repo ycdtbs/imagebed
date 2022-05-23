@@ -1,0 +1,6 @@
+aliyun:
+  endpoint: 
+  keyid:   # 填写刚刚生成的AccessKey
+  keysecret:    # 填写刚刚生成的Accesssecret
+  bucketname:   # bucket名称
+  filehost:      #bucket下文件夹的路径
