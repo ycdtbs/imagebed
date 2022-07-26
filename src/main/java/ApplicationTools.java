@@ -15,7 +15,8 @@ public class ApplicationTools {
         System.out.println(config.toString());
         // 主启动类
         new windows().openWindows();
-        System.out.println("服务启动");
-        System.out.println("服务开启");
+        System.out.println("修复");
+        System.out.println("hellowgit 4");
+
     }
 }
