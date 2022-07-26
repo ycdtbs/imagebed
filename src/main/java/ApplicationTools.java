@@ -16,5 +16,6 @@ public class ApplicationTools {
         // 主启动类
         new windows().openWindows();
         System.out.println("服务启动");
+        System.out.println("服务开启");
     }
 }
