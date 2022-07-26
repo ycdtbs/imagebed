@@ -17,6 +17,7 @@ public class ApplicationTools {
         new windows().openWindows();
         System.out.println("修复");
         System.out.println("main");
+        System.out.println("text");
 
     }
 }
